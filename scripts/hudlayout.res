@@ -1,5 +1,26 @@
+// Broesel's Crosshairs
+//#base "../resource/crosshairs/broesel/crosshair.res"
+//#base "../resource/crosshairs/broesel/crosshair-blur.res"
+
+// Fog's Crosshairs
+//#base "../resource/crosshairs/fog/crosshair.res"
+//#base "../resource/crosshairs/fog/crosshair-blur.res"
+
+// Knuckles' Crosshairs
+//#base "../resource/crosshairs/knuckles/crosshair.res"
+//#base "../resource/crosshairs/knuckles/crosshair-blur.res"
+
+// Toonhud Crosshairs
+//#base "../resource/crosshairs/toonhud/crosshair.res"
+//#base "../resource/crosshairs/toonhud/crosshair-blur.res"
+
+// Whahay's Crosshairs
+//#base "../resource/crosshairs/whahay/crosshair.res"
+//#base "../resource/crosshairs/whahay/crosshair-blur.res"
+
 "Resource/HudLayout.res"
 {
+
 	"Transparent"
 	{
 		"ControlName"	"ImagePanel"
@@ -458,15 +479,6 @@
 		"DashGap"	"16"
 		"DashHeight" "4"
 		"BorderThickness" "88"
-	}
-
-	HudCrosshair
-	{
-		"fieldName" "HudCrosshair"
-		"visible" "1"
-		"enabled" "1"
-		"wide"	 "640"
-		"tall"	 "480"
 	}
 
 	HudDeathNotice
