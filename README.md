@@ -1,7 +1,7 @@
 terry's hud
 ===========
 **Please note that the HUD is currently Work-In-Progress and may have bugs or uncomplete features.**<br>
-[**View the progress on the HUD**](https://miro.com/app/embed/o9J_kqEdj6w=/?&pres=1)(idk how to fix the small font)
+[**View the progress on the HUD**](https://miro.com/app/embed/o9J_kqEdj6w=/?&pres=1) (idk how to fix the small font)
 
 Installation
 ------------
