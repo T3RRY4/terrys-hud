@@ -1,6 +1,7 @@
 terry's hud
 ===========
 **Please note that the HUD is currently Work-In-Progress and may have bugs or uncomplete features.**<br>
+**If any issues found or if you have a suggestion, please create a new issue at Issues tab.**<br>
 [**View the progress on the HUD**](https://miro.com/app/board/o9J_kqEdj6w=/)
 
 Installation
