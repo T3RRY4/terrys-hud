@@ -9,6 +9,10 @@ Installation
 1. Download the ZIP file using **Clone** button on the top of the GitHub page.
 2. Place the unzipped folder inside of your **tf/custom** folder.
 
+Uninstallation
+--------------
+To uninstall, simpy delete the hud folder in your **tf/custom** folder.
+
 Changing crosshairs
 -------------------
 1. Go to your **terrys-hud-master/scripts** folder and open **hudlayout.res** file with any text editor you have installed.
