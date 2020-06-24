@@ -47,7 +47,7 @@ Changing crosshairs
 3. Go to your **terrys-hud-master/resource/crosshairs** folder and open the folder of crosshair pack you picked.
 4. Open **crosshair.res**, **crosshair-blur.res** and **crosshair-preview.png** files.
 5. Pick any crosshair you want and type the value from the top of it in ``"labelText"		"p"`` line in both **crosshair.res** and **crosshair-blur.res** files.
-6. Edit the crosshair properties in ``"font"			"Knuckles, Size:18, Outline:Off, Blur:On"`` line in both files and you're done.
+6. Edit the crosshair properties in ``"font"			"Knuckles, Size:18, Outline:Off, Blur:Off"`` line in both files and you're done.
 
 Links
 -----
