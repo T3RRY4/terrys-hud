@@ -35,7 +35,7 @@
 		
 		"item_backdrop_zpos"				"1"
 		"show_item_backdrop"				"1"
-		"item_backdrop_color"				"24 22 20 255"
+		"item_backdrop_color"				"30 30 30 255"
 		"item_backdrop_left_margin"			"11"
 		"item_backdrop_right_margin"		"11"
 		"item_backdrop_top_margin"			"9"

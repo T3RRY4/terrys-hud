@@ -2256,6 +2256,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			""	
+        "bgcolor_override" "30 30 30 255"
 		"scaleImage"	"1"	
 	}
 	"TipText"

@@ -9,7 +9,7 @@
 		// Crosshair Name, Size:10-40, Outline:On/Off, Blur:On/Off.
 		// Size can be between 10 and 40. Anything higher or lower will not work.
 		// Removing any of the values from below will cause the crosshair to break.
-		"font"			"Knuckles, Size:18, Outline:Off, Blur:On"
+		"font"			"Knuckles, Size:24, Outline:Off, Blur:Off"
 		
 		// Horizontal Position
 		"xpos"			"c-100"

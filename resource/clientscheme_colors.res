@@ -84,7 +84,7 @@ Scheme
 		"G_InputText"				"0 0 0 240" // Input text color
 		"G_DimmInputText"			"0 0 0 100" // Dimm Input text color
 		"G_DimmMenuText"			"220 206 199 120" // Dimm Menu text color
-		"G_ItemDescriptionPanelBg"	"24 22 20 255" // Item description panel bg
+		"G_ItemDescriptionPanelBg"	"30 30 30 255" // Item description panel bg
 		"G_ButtonBg"				"30 30 30 255" // Button bg color
 		"G_ButtonText"				"255 255 255 255" // Button text color
 		"G_ButtonHoverBg"			"255 255 255 255" // Button hover bg color

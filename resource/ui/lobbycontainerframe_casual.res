@@ -1036,6 +1036,7 @@
 		"wide"			"300"
 		"tall"			"0"
 		"visible"		"0"
+        "bgcolor_override"  "30 30 30 255"
 		"PaintBackgroundType"	"2"
 		"border"		"MainMenuBGBorder"
 		

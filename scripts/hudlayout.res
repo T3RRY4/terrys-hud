@@ -7,8 +7,8 @@
 //#base "../resource/crosshairs/fog/crosshair-blur.res"
 
 // Knuckles' Crosshairs
-//#base "../resource/crosshairs/knuckles/crosshair.res"
-//#base "../resource/crosshairs/knuckles/crosshair-blur.res"
+#base "../resource/crosshairs/knuckles/crosshair.res"
+#base "../resource/crosshairs/knuckles/crosshair-blur.res"
 
 // Toonhud Crosshairs
 //#base "../resource/crosshairs/toonhud/crosshair.res"

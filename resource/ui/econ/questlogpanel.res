@@ -67,6 +67,7 @@
 		"wide"			"200"
 		"tall"			"100"
 		"visible"		"0"
+        "bgcolor_override"  "30 30 30 255"
 		"PaintBackgroundType"	"2"
 		"border"		"MainMenuBGBorder"
 		
@@ -86,7 +87,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"255 255 255 255"
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}
