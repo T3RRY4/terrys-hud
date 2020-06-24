@@ -11,7 +11,7 @@ Installation
 
 Uninstallation
 --------------
-To uninstall, simpy delete the hud folder in your **tf/custom** folder.
+1. Simpy delete the hud folder in your **tf/custom** folder.
 
 Changing crosshairs
 -------------------
