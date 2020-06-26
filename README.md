@@ -5,6 +5,7 @@ Installation
 ------------
 1. Download the ZIP file using **Clone** button on the top of the GitHub page.
 2. Place the unzipped folder inside of your **tf/custom** folder.
+3. Done!
 
 Uninstallation
 --------------
@@ -48,5 +49,6 @@ Changing crosshairs
 
 Links
 -----
-[**My Steam Profile**](https://steamcommunity.com/id/t3rry4/)<br>
+[**My Steam Profile**](https://steamcommunity.com/id/t3rry4/)
+
 [**My site**](http://terry.ezyro.com/)
