@@ -1,6 +1,7 @@
+***I'm thinking of reworking this hud, so don't expect any updates on this repo***
+
 terry's hud
 ===========
-***I'm thinking of reworking this hud, so don't expect any updates on this repo***
 
 Installation
 ------------
