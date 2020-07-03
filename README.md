@@ -1,4 +1,4 @@
-***I'm thinking of reworking this hud, so don't expect any updates on this repo***
+***I'm thinking of reworking this hud, so don't expect any updates on this repo, the hud is usable though, you can try it out***
 
 terry's hud
 ===========
